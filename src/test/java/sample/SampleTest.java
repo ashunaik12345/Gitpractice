@@ -7,5 +7,8 @@ public class SampleTest {
 	public void sampleTest() {
 		System.out.println("This is from lead");
 	}
-
+	@Test
+	public void demoTest() {
+		System.out.println("This is for cofirm");
+	}
 }
