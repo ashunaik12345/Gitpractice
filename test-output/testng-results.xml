@@ -1,17 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
-  </reporter-output>
+  </reporter-output><suite namult suite" duration-ms="55" started-at="2023-01-19T10:06:34Z" finished-at="2023-01-19T10:06:34Z">
+=======
   <suite name="Default suite" duration-ms="71" started-at="2023-01-19T09:58:01Z" finished-at="2023-01-19T09:58:01Z">
+>>>>>>> branch 'master' of https://github.com/ashunaik12345/Gitpractice.git
     <groups>
     </groups>
+<<<<<<< HEAD
+    <test name="Default test" duration-ms="55" started-at="2023-01-19T10:06:34Z" finished-at="2023-01-19T10:06:34Z">
+      <class name="sample.SampleTest">
+        <test-method status="PASS" signature="demoTest()[pri:0, instance:sample.SampleTest@5f150435]" name="demoTest" duration-ms="22" started-at="2023-01-19T15:36:34Z" finished-at="2023-01-19T15:36:34Z">
+=======
     <test name="Default test" duration-ms="71" started-at="2023-01-19T09:58:01Z" finished-at="2023-01-19T09:58:01Z">
       <class name="forTemprory.Sample">
         <test-method status="PASS" signature="test()[pri:0, instance:forTemprory.Sample@5f150435]" name="test" duration-ms="44" started-at="2023-01-19T15:28:01Z" finished-at="2023-01-19T15:28:01Z">
+>>>>>>> branch 'master' of https://github.com/ashunaik12345/Gitpractice.git
           <reporter-output>
           </reporter-output>
+<<<<<<< HEAD
+        </test-method> <!-- demoTest -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:sample.SampleTest@5f150435]" name="sampleTest" duration-ms="1" started-at="2023-01-19T15:36:34Z" finished-at="2023-01-19T15:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- sample.SampleTest -->
+=======
         </test-method> <!-- test -->
       </class> <!-- forTemprory.Sample -->
+>>>>>>> branch 'master' of https://github.com/ashunaik12345/Gitpractice.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
